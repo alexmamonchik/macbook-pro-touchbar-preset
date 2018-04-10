@@ -20,11 +20,11 @@
 5. Mute
 6. Volume Down
 7. Volume Up
-8. Current rate of USD from [Alfa bank](https://alfabank.ru/)
+8. Current rate of USD from [Alfa bank](https://alfabank.ru/) - by click you go to currency page
 
 ### Thanks
 
-1. @vas3k for [inspiration](http://vas3k.ru/blog/touchbar/)
+1. [@vas3k](https://github.com/vas3k) for [inspiration](http://vas3k.ru/blog/touchbar/)
 2. [repo](https://github.com/vas3k/btt-touchbar-presets) where people collect their presets. I took a lot from their presets. 
 
 ### TODO
